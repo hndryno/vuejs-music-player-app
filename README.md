@@ -1,5 +1,7 @@
 # music-app
-
+```
+if u want to use this project, make assets folder in src and fill the assets folder with your mp3 playlist, set the song in App.vue
+```
 ## Project setup
 ```
 yarn install
